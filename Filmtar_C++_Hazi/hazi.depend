@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1652643559 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\documentfilm.cpp
+	"DocumentFilm.h"
+
+1652643559 f:\egyetemiprogramok\c++ programok\hazi\hazi\documentfilm.h
+	"Film.h"
+	"string5.h"
+
+1652643559 f:\egyetemiprogramok\c++ programok\hazi\hazi\film.h
+	"string5.h"
+
+1652643559 f:\egyetemiprogramok\c++ programok\hazi\hazi\string5.h
+	<iostream>
+
+1652643559 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\familyfilm.cpp
+	"FamilyFilm.h"
+	"string5.h"
+
+1652643559 f:\egyetemiprogramok\c++ programok\hazi\hazi\familyfilm.h
+	"Film.h"
+	"string5.h"
+
+1652643559 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\film.cpp
+	"Film.h"
+	<string.h>
+
+1652643559 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\filmstorage.cpp
+	"FilmStorage.h"
+	"Film.h"
+	"string5.h"
+	<exception>
+	"memtrace.h"
+
+1652643559 f:\egyetemiprogramok\c++ programok\hazi\hazi\filmstorage.h
+	<exception>
+	<sstream>
+	<cstring>
+	"Film.h"
+	"FamilyFilm.h"
+	"DocumentFilm.h"
+	"string5.h"
+	"memtrace.h"
+
+1649662819 f:\egyetemiprogramok\c++ programok\hazi\hazi\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1652643560 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\main.cpp
+	<iostream>
+	<sstream>
+	"Film.h"
+	"FamilyFilm.h"
+	"gtest_lite.h"
+	"FilmStorage.h"
+	"FamilyFilm.h"
+	"DocumentFilm.h"
+	"string5.h"
+	"memtrace.h"
+
+1649662819 f:\egyetemiprogramok\c++ programok\hazi\hazi\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1649662819 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1652643559 source:f:\egyetemiprogramok\c++ programok\hazi\hazi\string5.cpp
+	<iostream>
+	<cstring>
+	"string5.h"
+
